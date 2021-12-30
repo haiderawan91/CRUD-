@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+.navbar {
+    background-color: lightblue !important;
+}
+
+.navbar a {
+    font-size: 1.2em;
+    text-transform: capitalize;
+}
+
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+.form-check-label {
+    background-color: lightblue;
+    border-radius: 5px;
+    color: black;
+}
+
+.form-label {
+    background-color: lightblue;
+    border-radius: 5px;
+    color: black;
+}
+
+.my-3 {
+    color: white;
+}
+
+.btn-get-Started {
+    background-color: lightblue;
+    margin-top: 90px;
+}
+.add-pr{
+    background-color: cadetblue;
+}
+
+.btn-outline-primary {
+    background-color: lightblue;
+}
+
+.navbar-brand {
+    font-size: 1.5rem !important;
+    color: white !important;
+}
+
+.navbar a:hover {
+    color: rgba(44, 41, 248, 0.548) !important;
+}
+
+.selected {
+    font-weight: bold !important;
+    border-bottom: 1px solid blue !important;
+}
+
+@media (min-width: 768px) {
+    .navbar-brand {
+        font-size: 1.2em !important;
+    }
+}
+
+.btn {
+    border: 1px solid rgb(23, 21, 163) !important;
+}
+
+.btn:hover {
+    background-color: rgb(86, 105, 211) !important;
+    color: white !important;
+}
+
+.serviceinfo{
+    color: black;
+    background-color: aquamarine;
+}
+
+.card {
+    color: black;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.card-text>p {
+    margin-top: 0px;
+}
+
+.brand-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blacks;
+    margin-top: 200px;
+}
+
+h4 {
+    text-align: justify;
+}
+
+p {
+    padding-top: 100px !important;
+    text-align: center !important;
+    color: grey !important;
+}
+
+.content {
+    margin: 100px;
+}
